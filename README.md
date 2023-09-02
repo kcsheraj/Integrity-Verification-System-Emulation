@@ -7,7 +7,6 @@ Problem Statement:
 Imagine a user storing files in a cloud service but wanting to verify downloaded files' integrity. We need a way to prove that a downloaded file matches the original. This project utilizes Merkle Trees to provide this proof.
 
 Merkle Trees Basics:
-
 Merkle Trees are binary trees.
 Each leaf node stores a file.
 Non-leaf nodes store hashes of their children.
